@@ -39,7 +39,7 @@
 
 # GDUT网管队在用项目
 
-- [chn-lee-yumi/switch-monitor](https://github.com/chn-lee-yumi/switch-monitor) 交换机监控（代号：Monitor）
+- [chn-lee-yumi/switch-monitor](https://github.com/chn-lee-yumi/switch-monitor) 交换机监控（项目已交接到[AlbumenJ/switch-monitor](https://github.com/AlbumenJ/switch-monitor)）（代号：Monitor）
 - [chn-lee-yumi/GDUT_mini_switch_monitor](https://github.com/chn-lee-yumi/GDUT_mini_switch_monitor) **交换机状态查询**（代号：Minitor）
 - [chn-lee-yumi/server-user-manage-system](https://github.com/chn-lee-yumi/server-user-manage-system) 服务器用户管理系统（代号：Sums）
 - [chn-lee-yumi/web-workbench](https://github.com/chn-lee-yumi/web-workbench) 工作台（代号：Workbench）
