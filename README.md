@@ -27,7 +27,7 @@
 - [chn-lee-yumi/hiwifi-plugin](https://github.com/chn-lee-yumi/hiwifi-plugin) 极路由插件代码集
 - [chn-lee-yumi/hiwifi_plugin_control_panel](https://github.com/chn-lee-yumi/hiwifi_plugin_control_panel) 极路由插件：服务器控制面板（由于工程量较大所以单独一个仓库）
 
-# 杂物
+# 杂项
 
 - [chn-lee-yumi/snmpwalk_server](https://github.com/chn-lee-yumi/snmpwalk_server) snmpwalk服务器
 - [chn-lee-yumi/web-workbench](https://github.com/chn-lee-yumi/web-workbench) 工作台
