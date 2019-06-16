@@ -1,10 +1,7 @@
-# GDUT相关
+# 运维开发
 
 - [chn-lee-yumi/switch-monitor](https://github.com/chn-lee-yumi/switch-monitor) 交换机监控
-- [chn-lee-yumi/GDUT_mini_switch_monitor](https://github.com/chn-lee-yumi/GDUT_mini_switch_monitor) 交换机状态查询
 - [chn-lee-yumi/server-user-manage-system](https://github.com/chn-lee-yumi/server-user-manage-system) 服务器用户管理系统
-- [chn-lee-yumi/web-workbench](https://github.com/chn-lee-yumi/web-workbench) 工作台
-- [chn-lee-yumi/snmpwalk_server](https://github.com/chn-lee-yumi/snmpwalk_server) snmpwalk服务器
 
 # 集群
 
@@ -32,8 +29,18 @@
 
 # 杂物
 
+- [chn-lee-yumi/snmpwalk_server](https://github.com/chn-lee-yumi/snmpwalk_server) snmpwalk服务器
+- [chn-lee-yumi/web-workbench](https://github.com/chn-lee-yumi/web-workbench) 工作台
 - [chn-lee-yumi/compressfs](https://github.com/chn-lee-yumi/compressfs) 基于FUSE的压缩文件系统
 - [chn-lee-yumi/tiny-c-httpd](https://github.com/chn-lee-yumi/tiny-c-httpd) 一个简单的httpd
 - [chn-lee-yumi/qcloud_ddns](https://github.com/chn-lee-yumi/qcloud_ddns) 腾讯云DDNS脚本
 - [chn-lee-yumi/songwriting-AI](https://github.com/chn-lee-yumi/songwriting-AI) AI作曲的一次尝试
 - [chn-lee-yumi/new-guess-the-number](https://github.com/chn-lee-yumi/new-guess-the-number) 猜数字游戏创新玩法
+
+# GDUT网管队在用项目
+
+- [chn-lee-yumi/switch-monitor](https://github.com/chn-lee-yumi/switch-monitor) 交换机监控 代号：Monitor
+- [chn-lee-yumi/GDUT_mini_switch_monitor](https://github.com/chn-lee-yumi/GDUT_mini_switch_monitor) **交换机状态查询** 代号：Minitor
+- [chn-lee-yumi/server-user-manage-system](https://github.com/chn-lee-yumi/server-user-manage-system) 服务器用户管理系统 代号：Sums
+- [chn-lee-yumi/web-workbench](https://github.com/chn-lee-yumi/web-workbench) 工作台  代号：Workbench
+- [chn-lee-yumi/snmpwalk_server](https://github.com/chn-lee-yumi/snmpwalk_server) snmpwalk服务器  代号：Walker
