@@ -19,7 +19,7 @@
 - [chn-lee-yumi/face_recognition](https://github.com/chn-lee-yumi/face_recognition)
 - [chn-lee-yumi/KernelAdiutor](https://github.com/chn-lee-yumi/KernelAdiutor)
 
-# 嵌入式
+# 嵌入式正在
 
 - [chn-lee-yumi/8051MCU](https://github.com/chn-lee-yumi/8051MCU) 51单片机代码集
 - [chn-lee-yumi/8051MCU-game-console](https://github.com/chn-lee-yumi/8051MCU-game-console) 基于51单片机的打飞机游戏机（由于工程量较大所以单独一个仓库）
@@ -44,4 +44,4 @@
 - [chn-lee-yumi/server-user-manage-system](https://github.com/chn-lee-yumi/server-user-manage-system) 服务器用户管理系统（代号：Sums）
 - [chn-lee-yumi/web-workbench](https://github.com/chn-lee-yumi/web-workbench) 工作台（代号：Workbench）
 - [chn-lee-yumi/snmpwalk_server](https://github.com/chn-lee-yumi/snmpwalk_server) snmpwalk服务器（代号：Walker）
-- 正在开发：GDUT_network_tester 网络质量检测（代号：Netter）
+- [gdut-network-manager/netter](https://github.com/gdut-network-manager/netter) **网络测试工具**（代号：Netter）
