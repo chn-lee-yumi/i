@@ -2,8 +2,10 @@
 
 - [chn-lee-yumi/switch-monitor](https://github.com/chn-lee-yumi/switch-monitor) 交换机监控
 - [chn-lee-yumi/server-user-manage-system](https://github.com/chn-lee-yumi/server-user-manage-system) 服务器用户管理系统
+- [chn-lee-yumi/kernel-server](https://github.com/chn-lee-yumi/kernel-server) 服务器集群管理系统-服务端
+- [chn-lee-yumi/kernel-agent](https://github.com/chn-lee-yumi/kernel-agent) 服务器集群管理系统-客户端
 
-# 集群
+# 分布式
 
 - [chn-lee-yumi/distributed_ffmpeg_transcoding_cluster](https://github.com/chn-lee-yumi/distributed_ffmpeg_transcoding_cluster) 分布式ffmpeg转码
 - [chn-lee-yumi/distributed-storage](https://github.com/chn-lee-yumi/distributed-storage) 分布式存储（C/S架构）
@@ -19,7 +21,7 @@
 - [chn-lee-yumi/face_recognition](https://github.com/chn-lee-yumi/face_recognition)
 - [chn-lee-yumi/KernelAdiutor](https://github.com/chn-lee-yumi/KernelAdiutor)
 
-# 嵌入式正在
+# 嵌入式
 
 - [chn-lee-yumi/8051MCU](https://github.com/chn-lee-yumi/8051MCU) 51单片机代码集
 - [chn-lee-yumi/8051MCU-game-console](https://github.com/chn-lee-yumi/8051MCU-game-console) 基于51单片机的打飞机游戏机（由于工程量较大所以单独一个仓库）
@@ -34,6 +36,7 @@
 - [chn-lee-yumi/compressfs](https://github.com/chn-lee-yumi/compressfs) 基于FUSE的压缩文件系统
 - [chn-lee-yumi/tiny-c-httpd](https://github.com/chn-lee-yumi/tiny-c-httpd) 一个简单的httpd
 - [chn-lee-yumi/qcloud_ddns](https://github.com/chn-lee-yumi/qcloud_ddns) 腾讯云DDNS脚本
+- [chn-lee-yumi/dns-db](https://github.com/chn-lee-yumi/dns-db) 使用DNS上传下载删除文件（对接了腾讯云API）
 - [chn-lee-yumi/songwriting-AI](https://github.com/chn-lee-yumi/songwriting-AI) AI作曲的一次尝试
 - [chn-lee-yumi/new-guess-the-number](https://github.com/chn-lee-yumi/new-guess-the-number) 猜数字游戏创新玩法
 
@@ -44,4 +47,6 @@
 - [chn-lee-yumi/server-user-manage-system](https://github.com/chn-lee-yumi/server-user-manage-system) 服务器用户管理系统（代号：Sums）
 - [chn-lee-yumi/web-workbench](https://github.com/chn-lee-yumi/web-workbench) 工作台（代号：Workbench）
 - [chn-lee-yumi/snmpwalk_server](https://github.com/chn-lee-yumi/snmpwalk_server) snmpwalk服务器（代号：Walker）
-- [gdut-network-manager/netter](https://github.com/gdut-network-manager/netter) **网络测试工具**（代号：Netter）
+- [gdut-network-manager/netter](https://github.com/gdut-network-manager/netter) **网络测试工具**（代号：Netter客户端）（Netter服务端不开源）
+- [chn-lee-yumi/kernel-server](https://github.com/chn-lee-yumi/kernel-server) 服务器集群管理系统-服务端（代号：Kernel服务端）
+- [chn-lee-yumi/kernel-agent](https://github.com/chn-lee-yumi/kernel-agent) 服务器集群管理系统-客户端（代号：Kernel客户端）
