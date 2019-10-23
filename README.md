@@ -43,10 +43,11 @@
 # GDUT网管队在用项目
 
 - [chn-lee-yumi/switch-monitor](https://github.com/chn-lee-yumi/switch-monitor) 交换机监控（项目已交接到[AlbumenJ/switch-monitor](https://github.com/AlbumenJ/switch-monitor)）（代号：Monitor）
-- [chn-lee-yumi/GDUT_mini_switch_monitor](https://github.com/chn-lee-yumi/GDUT_mini_switch_monitor) **交换机状态查询**（代号：Minitor）
+- [chn-lee-yumi/GDUT_mini_switch_monitor](https://github.com/chn-lee-yumi/GDUT_mini_switch_monitor) 交换机状态查询（代号：Minitor）
 - [chn-lee-yumi/server-user-manage-system](https://github.com/chn-lee-yumi/server-user-manage-system) 服务器用户管理系统（代号：Sums）
 - [chn-lee-yumi/web-workbench](https://github.com/chn-lee-yumi/web-workbench) 工作台（代号：Workbench）
 - [chn-lee-yumi/snmpwalk_server](https://github.com/chn-lee-yumi/snmpwalk_server) snmpwalk服务器（代号：Walker）
-- [gdut-network-manager/netter](https://github.com/gdut-network-manager/netter) **网络测试工具**（代号：Netter客户端）（Netter服务端不开源）
+- [chn-lee-yumi/GDUT_network_tester_client](https://github.com/chn-lee-yumi/GDUT_network_tester_client) 网络测试工具（代号：Netter客户端）
+- [chn-lee-yumi/GDUT_network_tester_server](https://github.com/chn-lee-yumi/GDUT_network_tester_server) 网络测试工具服务端（代号：Netter服务端）
 - [chn-lee-yumi/kernel-server](https://github.com/chn-lee-yumi/kernel-server) 服务器集群管理系统-服务端（代号：Kernel服务端）
 - [chn-lee-yumi/kernel-agent](https://github.com/chn-lee-yumi/kernel-agent) 服务器集群管理系统-客户端（代号：Kernel客户端）
