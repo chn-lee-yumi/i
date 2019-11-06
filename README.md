@@ -39,6 +39,7 @@
 - [chn-lee-yumi/dns-db](https://github.com/chn-lee-yumi/dns-db) 使用DNS上传下载删除文件（对接了腾讯云API）
 - [chn-lee-yumi/songwriting-AI](https://github.com/chn-lee-yumi/songwriting-AI) AI作曲的一次尝试
 - [chn-lee-yumi/new-guess-the-number](https://github.com/chn-lee-yumi/new-guess-the-number) 猜数字游戏创新玩法
+- [chn-lee-yumi/lxd_cluster_panel](https://github.com/chn-lee-yumi/lxd_cluster_panel) LXD集群管理面板
 
 # GDUT网管队在用项目
 
