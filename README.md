@@ -14,7 +14,7 @@
 
 - [chn-lee-yumi/Satillite-Cloud-Image-WeixinAPP](https://github.com/chn-lee-yumi/Satillite-Cloud-Image-WeixinAPP) 微信小程序：气象卫星云图
 - [chn-lee-yumi/GDUT-GPA-Calculator-WeixinAPP](https://github.com/chn-lee-yumi/GDUT-GPA-Calculator-WeixinAPP) 微信小程序：GDUT绩点计算器（由于已有更好的小程序可替代，故本小程序已下线）
-- [chn-lee-yumi/Card-Finger-Guessing-WeixinAPP](https://github.com/chn-lee-yumi/Card-Finger-Guessing-WeixinAPP) 微信小程序：卡牌猜拳（由于微信提供的信道丢包严重，故暂时停止开发）
+- [chn-lee-yumi/Card-Finger-Guessing-WeixinAPP](https://github.com/chn-lee-yumi/Card-Finger-Guessing-WeixinAPP) 微信小程序：卡牌猜拳
 
 # 协作项目
 
@@ -40,6 +40,8 @@
 - [chn-lee-yumi/songwriting-AI](https://github.com/chn-lee-yumi/songwriting-AI) AI作曲的一次尝试
 - [chn-lee-yumi/new-guess-the-number](https://github.com/chn-lee-yumi/new-guess-the-number) 猜数字游戏创新玩法
 - [chn-lee-yumi/lxd_cluster_panel](https://github.com/chn-lee-yumi/lxd_cluster_panel) LXD集群管理面板
+- [chn-lee-yumi/mirrors-gdut](https://github.com/chn-lee-yumi/mirrors-gdut) GDUT开源镜像站
+
 
 # GDUT网管队在用项目
 
@@ -52,3 +54,4 @@
 - [chn-lee-yumi/GDUT_network_tester_server](https://github.com/chn-lee-yumi/GDUT_network_tester_server) 网络测试工具服务端（代号：Netter服务端）
 - [chn-lee-yumi/kernel-server](https://github.com/chn-lee-yumi/kernel-server) 服务器集群管理系统-服务端（代号：Kernel服务端）
 - [chn-lee-yumi/kernel-agent](https://github.com/chn-lee-yumi/kernel-agent) 服务器集群管理系统-客户端（代号：Kernel客户端）
+- [chn-lee-yumi/mirrors-gdut](https://github.com/chn-lee-yumi/mirrors-gdut) GDUT开源镜像站（代号：mirrors）
