@@ -14,7 +14,6 @@
 
 - [chn-lee-yumi/Satillite-Cloud-Image-WeixinAPP](https://github.com/chn-lee-yumi/Satillite-Cloud-Image-WeixinAPP) 微信小程序：气象卫星云图
 - [chn-lee-yumi/GDUT-GPA-Calculator-WeixinAPP](https://github.com/chn-lee-yumi/GDUT-GPA-Calculator-WeixinAPP) 微信小程序：GDUT绩点计算器（由于已有更好的小程序可替代，故本小程序已下线）
-- [chn-lee-yumi/Card-Finger-Guessing-WeixinAPP](https://github.com/chn-lee-yumi/Card-Finger-Guessing-WeixinAPP) 微信小程序：卡牌猜拳
 
 # 协作项目
 
