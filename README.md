@@ -40,7 +40,11 @@
 - [chn-lee-yumi/new-guess-the-number](https://github.com/chn-lee-yumi/new-guess-the-number) 猜数字游戏创新玩法
 - [chn-lee-yumi/lxd_cluster_panel](https://github.com/chn-lee-yumi/lxd_cluster_panel) LXD集群管理面板
 - [chn-lee-yumi/mirrors-gdut](https://github.com/chn-lee-yumi/mirrors-gdut) GDUT开源镜像站
-
+- [chn-lee-yumi/cpu_control](https://github.com/chn-lee-yumi/cpu_control) CPU频率及核心控制脚本（适用于Android）
+- [chn-lee-yumi/dn42](https://github.com/chn-lee-yumi/dn42) [DN42 Cirrocumulus Cloud 主页](https://dn42.gcc.ac.cn)
+- [chn-lee-yumi/dn42_search_engine](https://github.com/chn-lee-yumi/dn42_search_engine) DN42搜索引擎
+- [chn-lee-yumi/prometheus_and_grafana_saas](https://github.com/chn-lee-yumi/prometheus_and_grafana_saas) Prometheus+Grafana的SAAS平台
+- [chn-lee-yumi/bird2-looking-glass](https://github.com/chn-lee-yumi/bird2-looking-glass) Bird2 的 Looking Glass
 
 # GDUT网管队在用项目
 
