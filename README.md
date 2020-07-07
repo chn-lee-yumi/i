@@ -4,6 +4,12 @@
 - [chn-lee-yumi/server-user-manage-system](https://github.com/chn-lee-yumi/server-user-manage-system) 服务器用户管理系统
 - [chn-lee-yumi/kernel-server](https://github.com/chn-lee-yumi/kernel-server) 服务器集群管理系统-服务端
 - [chn-lee-yumi/kernel-agent](https://github.com/chn-lee-yumi/kernel-agent) 服务器集群管理系统-客户端
+- [chn-lee-yumi/GDUT_network_tester_client](https://github.com/chn-lee-yumi/GDUT_network_tester_client) GDUT网络测试工具
+- [chn-lee-yumi/GDUT_network_tester_server](https://github.com/chn-lee-yumi/GDUT_network_tester_server) GDUT网络测试工具服务端
+- [chn-lee-yumi/GDUT_mini_switch_monitor](https://github.com/chn-lee-yumi/GDUT_mini_switch_monitor) GDUT交换机状态查询
+- [chn-lee-yumi/lxd_cluster_panel](https://github.com/chn-lee-yumi/lxd_cluster_panel) LXD集群管理面板
+- [chn-lee-yumi/prometheus_and_grafana_saas](https://github.com/chn-lee-yumi/prometheus_and_grafana_saas) Prometheus+Grafana的SAAS平台
+- [chn-lee-yumi/bird2-looking-glass](https://github.com/chn-lee-yumi/bird2-looking-glass) Bird2 的 Looking Glass
 
 # 分布式
 
@@ -15,10 +21,6 @@
 - [chn-lee-yumi/Satillite-Cloud-Image-WeixinAPP](https://github.com/chn-lee-yumi/Satillite-Cloud-Image-WeixinAPP) 微信小程序：气象卫星云图
 - [chn-lee-yumi/GDUT-GPA-Calculator-WeixinAPP](https://github.com/chn-lee-yumi/GDUT-GPA-Calculator-WeixinAPP) 微信小程序：GDUT绩点计算器（由于已有更好的小程序可替代，故本小程序已下线）
 
-# 协作项目
-
-- [chn-lee-yumi/face_recognition](https://github.com/chn-lee-yumi/face_recognition)
-- [chn-lee-yumi/KernelAdiutor](https://github.com/chn-lee-yumi/KernelAdiutor)
 
 # 嵌入式
 
@@ -38,23 +40,12 @@
 - [chn-lee-yumi/dns-db](https://github.com/chn-lee-yumi/dns-db) 使用DNS上传下载删除文件（对接了腾讯云API）
 - [chn-lee-yumi/songwriting-AI](https://github.com/chn-lee-yumi/songwriting-AI) AI作曲的一次尝试
 - [chn-lee-yumi/new-guess-the-number](https://github.com/chn-lee-yumi/new-guess-the-number) 猜数字游戏创新玩法
-- [chn-lee-yumi/lxd_cluster_panel](https://github.com/chn-lee-yumi/lxd_cluster_panel) LXD集群管理面板
 - [chn-lee-yumi/mirrors-gdut](https://github.com/chn-lee-yumi/mirrors-gdut) GDUT开源镜像站
 - [chn-lee-yumi/cpu_control](https://github.com/chn-lee-yumi/cpu_control) CPU频率及核心控制脚本（适用于Android）
-- [chn-lee-yumi/dn42](https://github.com/chn-lee-yumi/dn42) [DN42 Cirrocumulus Cloud 主页](https://dn42.gcc.ac.cn)
+- [chn-lee-yumi/dn42](https://github.com/chn-lee-yumi/dn42) 我的DN42主页（[Cirrocumulus Cloud](https://dn42.gcc.ac.cn)）
 - [chn-lee-yumi/dn42_search_engine](https://github.com/chn-lee-yumi/dn42_search_engine) DN42搜索引擎
-- [chn-lee-yumi/prometheus_and_grafana_saas](https://github.com/chn-lee-yumi/prometheus_and_grafana_saas) Prometheus+Grafana的SAAS平台
-- [chn-lee-yumi/bird2-looking-glass](https://github.com/chn-lee-yumi/bird2-looking-glass) Bird2 的 Looking Glass
 
-# GDUT网管队在用项目
+# 协作项目
 
-- [chn-lee-yumi/switch-monitor](https://github.com/chn-lee-yumi/switch-monitor) 交换机监控（项目已交接到[AlbumenJ/switch-monitor](https://github.com/AlbumenJ/switch-monitor)）（代号：Monitor）
-- [chn-lee-yumi/GDUT_mini_switch_monitor](https://github.com/chn-lee-yumi/GDUT_mini_switch_monitor) 交换机状态查询（代号：Minitor）
-- [chn-lee-yumi/server-user-manage-system](https://github.com/chn-lee-yumi/server-user-manage-system) 服务器用户管理系统（代号：Sums）
-- [chn-lee-yumi/web-workbench](https://github.com/chn-lee-yumi/web-workbench) 工作台（代号：Workbench）
-- [chn-lee-yumi/snmpwalk_server](https://github.com/chn-lee-yumi/snmpwalk_server) snmpwalk服务器（代号：Walker）
-- [chn-lee-yumi/GDUT_network_tester_client](https://github.com/chn-lee-yumi/GDUT_network_tester_client) 网络测试工具（代号：Netter客户端）
-- [chn-lee-yumi/GDUT_network_tester_server](https://github.com/chn-lee-yumi/GDUT_network_tester_server) 网络测试工具服务端（代号：Netter服务端）
-- [chn-lee-yumi/kernel-server](https://github.com/chn-lee-yumi/kernel-server) 服务器集群管理系统-服务端（代号：Kernel服务端）
-- [chn-lee-yumi/kernel-agent](https://github.com/chn-lee-yumi/kernel-agent) 服务器集群管理系统-客户端（代号：Kernel客户端）
-- [chn-lee-yumi/mirrors-gdut](https://github.com/chn-lee-yumi/mirrors-gdut) GDUT开源镜像站（代号：mirrors）
+- [chn-lee-yumi/face_recognition](https://github.com/chn-lee-yumi/face_recognition)
+- [chn-lee-yumi/KernelAdiutor](https://github.com/chn-lee-yumi/KernelAdiutor)
